@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Graduate Student of Geography
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,26 +25,27 @@ organizations:
     url: https://www.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include human mobility, urban form, urban science, travel behavior.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Human Mobility
+  - Urban form
+  - Urban science
+  - Travel behavior
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Geography
+      institution: Peking University
+      year: Expected 2024
+    - course: MEng in Urban and Rural Planning
+      institution: Peking University
+      year: 2021
+    - course: BA (dual degree) in Economics
+      institution: Peking University
+      year: 2021
 
 # # Skills
 # # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
