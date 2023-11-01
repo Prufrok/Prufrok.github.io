@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+title: 'Yeshuo Shu / Academic Website'
 date: 2023-10-31
 type: landing
 
