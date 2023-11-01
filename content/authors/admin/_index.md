@@ -40,7 +40,7 @@ education:
     - course: MSc in Geography
       institution: Peking University
       year: Expected 2024
-    - course: MEng in Urban and Rural Planning
+    - course: BEng in Urban and Rural Planning
       institution: Peking University
       year: 2021
     - course: BA (dual degree) in Economics
