@@ -16,9 +16,9 @@ main:
   - name: Project Experience
     url: '#talks'
     weight: 30
-  # - name: Publications
-  #   url: '#featured'
-  #   weight: 50
+  - name: cv
+    url: '#cv'
+    weight: 40
   # - name: Contact
   #   url: '#contact'
   #   weight: 60
