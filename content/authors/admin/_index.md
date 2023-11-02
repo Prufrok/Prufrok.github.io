@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student of Geography
+role: Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -37,7 +37,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MSc in Geography
+    - course: MSc in Landscape Architecture
       institution: Peking University
       year: Expected 2024
     - course: BEng in Urban and Rural Planning
