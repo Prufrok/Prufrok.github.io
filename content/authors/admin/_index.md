@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 舒业硕
+title: Yeshuo Shu
 
 # Name pronunciation (optional)
-name_pronunciation: Shu Yeshuo
+# name_pronunciation: Shu Yeshuo
 
 # Full name (for SEO)
 first_name: Yeshuo
