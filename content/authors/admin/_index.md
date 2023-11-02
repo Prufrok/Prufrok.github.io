@@ -31,7 +31,6 @@ bio: My research interests include human mobility, urban form, urban science, tr
 interests:
   - Human Mobility
   - Urban form
-  - Urban science
   - Travel behavior
 
 # Education to show in About widget
