@@ -1,17 +1,11 @@
 ---
+features:
+  avatar:
+      gravatar: false
+      shape: circle
+
 # Display name
 title: Yeshuo Shu
-
-# Full name (for SEO)
-first_name: Yeshuo
-last_name: Shu
-
-# Status emoji
-status:
-  icon: ☕️
-
-# Is this the primary user of the site?
-superuser: true
 
 # Role/position/tagline
 role: Graduate Student
