@@ -8,13 +8,13 @@ main:
   #   url: '#about'
   #   weight: 10
   - name: Research & Publications
-    url: 'research/'
+    url: research/
     weight: 10
   - name: Project Experience
-    url: '#talks'
+    url: project/
     weight: 20
-  - name: cv
-    url: '#cv'
+  - name: CV
+    url: uploads/resume.pdf
     weight: 30
   # - name: Contact
   #   url: '#contact'
