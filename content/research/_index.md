@@ -5,7 +5,13 @@ type: landing
 title: ''
 
 sections:
-  - block: profile
+  - block: about.biography
+    id: about
+    content:
+      title: About me
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+  - block: markdown
     id: profile
     content:
       title: Yeshuo Shu
