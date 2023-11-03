@@ -37,13 +37,13 @@ interests:
 education:
   courses:
     - course: MSc in Landscape Architecture
-      institution: Peking University
+      institution: Peking University, China
       year: Expected 2024
     - course: BEng in Urban and Rural Planning
-      institution: Peking University
+      institution: Peking University, China
       year: 2021
     - course: BA (dual degree) in Economics
-      institution: Peking University
+      institution: Peking University, China
       year: 2021
 
 # # Skills
