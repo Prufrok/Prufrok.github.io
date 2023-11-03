@@ -1,19 +1,15 @@
 ---
-features:
-  avatar:
-      gravatar: false
-      shape: circle
+type: landing
 
 # Display name
-title: Yeshuo Shu
+title: ''
 
-# Role/position/tagline
-role: Graduate Student
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Peking University
-    url: https://www.pku.edu.cn/
+sections:
+  - block: profile
+    id: profile
+    content:
+      title: Yeshuo Shu
+      text: Graduate Student\n [Peking University](https://www.pku.edu.cn/)
 ---
 
 hello
