@@ -126,4 +126,4 @@ My research focus lies at the intersection of human mobility and travel behavior
 
 * Human mobility patterns vis-à-vis urban planning and design: Geospatial big data provides the opportunity to explore the nature of urban spatial structure from the perspective of human mobility. Specifical issues include empirical analysis of the urban spatial structures that emerge from human activities juxtaposed with traditional urban form issues, such as street networks.
 * Applications in transportation research: The diversity in mobility and preferences engenders various interactive behaviors among road users. Particularly of interest is the future dynamic between vulnerable road users and autonomous vehicles within the complex urban traffic environment, such as shared spaces and intersections.
-{style="text-align: justify;"}
+{style="text-align: justify; font-size: 1px;"}
