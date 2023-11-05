@@ -119,7 +119,7 @@ education:
 # highlight_name: true
 ---
 
-I am a third-year master candidate from Peking University, China. I am currently under the supervision of Prof. [Liyan Xu](https://www.cala.pku.edu.cn/info/1025/1275.htm). My research focus lies at the intersection of **human mobility** and **travel behavior** in general, and particularly in:
+I am a third-year master candidate from Peking University, China. I am currently under the supervision of Prof. <a href="https://www.cala.pku.edu.cn/info/1025/1275.htm" style="text-decoration: none;">Liyan Xu</a>. My research focus lies at the intersection of **human mobility** and **travel behavior** in general, and particularly in:
 {style="text-align: justify; font-size: 17px;"}
 
 - Human mobility patterns vis-à-vis <u>urban planning and design</u>:  
