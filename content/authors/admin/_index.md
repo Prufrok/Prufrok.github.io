@@ -122,12 +122,8 @@ education:
 
 I am a third-year master candidate from Peking University, China. I am currently under the supervision of Prof. [Liyan Xu](https://www.cala.pku.edu.cn/info/1025/1275.htm).
 
-My research focus lies at the intersection of human mobility and travel behavior.
+My research focus lies at the intersection of human mobility and travel behavior in general, and particularly in:
 
-On a macroscopic level, human mobility exhibits a high degree of regularity, revealing patterns that are consistent and predictable across various contexts. Conversely, at a microscopic level, these mobility patterns are the result of individual travel choices and preferences, showcasing a rich tapestry of personal behaviors and decision-making processes.
-
-I am interested in:
-
-* Application in urban planning and design: Geospatial big data provides the opportunity to explore the nature of urban spatial structure from the perspective of human mobility. Specifically, it is possible to empirically test and analyze the relationship between spatial structures that emerge from human activities versus traditional urban forms, such as street networks.
-* Application in transport planning: The diversity in mobility and preferences engenders various interactive behaviors among road users. Particularly of interest is the future dynamic between vulnerable road users and autonomous vehicles within the complex urban traffic environment, such as shared spaces and intersections.
+* Human mobility patterns vis-à-vis urban planning and design: Geospatial big data provides the opportunity to explore the nature of urban spatial structure from the perspective of human mobility. Specifical issues include empirical analysis of the urban spatial structures that emerge from human activities juxtaposed with traditional urban form issues, such as street networks.
+* Applications in transportation research: The diversity in mobility and preferences engenders various interactive behaviors among road users. Particularly of interest is the future dynamic between vulnerable road users and autonomous vehicles within the complex urban traffic environment, such as shared spaces and intersections.
 {style="text-align: justify;"}
