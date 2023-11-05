@@ -121,9 +121,8 @@ education:
 ---
 
 I am a third-year master candidate from Peking University, China. I am currently under the supervision of Prof. [Liyan Xu](https://www.cala.pku.edu.cn/info/1025/1275.htm).
-
 My research focus lies at the intersection of human mobility and travel behavior in general, and particularly in:
 
 * Human mobility patterns vis-à-vis urban planning and design: Geospatial big data provides the opportunity to explore the nature of urban spatial structure from the perspective of human mobility. Specifical issues include empirical analysis of the urban spatial structures that emerge from human activities juxtaposed with traditional urban form issues, such as street networks.
 * Applications in transportation research: The diversity in mobility and preferences engenders various interactive behaviors among road users. Particularly of interest is the future dynamic between vulnerable road users and autonomous vehicles within the complex urban traffic environment, such as shared spaces and intersections.
-{style="text-align: justify; font-size: 1px;"}
+{style="text-align: justify; font-size: 10px;"}
