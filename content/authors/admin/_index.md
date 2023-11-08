@@ -123,7 +123,7 @@ I am a third-year master candidate from Peking University, China. I am currently
 {style="text-align: justify; font-size: 17px;"}
 
 - Human mobility patterns vis-à-vis <u>urban planning and design</u>:  
-  Geospatial big data provides the opportunity to explore the nature of urban spatial structure from the perspective of human mobility. Specifical issues include empirical analysis of the urban spatial structures that emerge from human activities juxtaposed with traditional urban form issues, such as street networks.
+  Geospatial big data provides the opportunity to explore the nature of urban spatial structure from the perspective of human mobility. Specific issues include 1) empirical analysis of the urban spatial structures that emerge from human activities juxtaposed with traditional urban form issues, such as street networks; 2) identifying potential conflicts between human activity patterns and the spatial structure of street networks before assessing the walkability and resilience.
 
 - Applications in <u>transportation research</u>:  
   The diversity in mobility and preferences engenders various interactive behaviors among road users. Particularly of interest is the future dynamic between vulnerable road users and autonomous vehicles within the complex urban traffic environment, such as shared spaces and intersections.
